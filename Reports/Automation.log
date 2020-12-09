@@ -1,0 +1,430 @@
+2020-12-08 00:54:18,669 : INFO : test_login_DDT : ******************Test_002_Login_DDT****************
+2020-12-08 00:54:18,669 : INFO : test_login_DDT : ************verifying login test
+2020-12-08 00:54:34,855 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-08 00:54:44,274 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-08 00:54:49,768 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-08 00:54:55,929 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-08 00:54:55,930 : INFO : test_login_DDT : ***********login DDT test is passed************
+2020-12-08 00:55:31,200 : INFO : test_login_DDT : ******************Test_002_Login_DDT****************
+2020-12-08 00:55:31,201 : INFO : test_login_DDT : ************verifying login test
+2020-12-08 00:55:43,412 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-08 00:58:20,543 : INFO : test_login_DDT : ******************Test_002_Login_DDT****************
+2020-12-08 00:58:20,544 : INFO : test_login_DDT : ************verifying login test
+2020-12-08 00:58:31,048 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-08 00:58:37,840 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-08 00:58:43,217 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-08 00:58:49,011 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-08 00:58:49,011 : INFO : test_login_DDT : ***********login DDT test is passed************
+2020-12-08 00:59:34,053 : INFO : test_login_DDT : ******************Test_002_Login_DDT****************
+2020-12-08 00:59:34,053 : INFO : test_login_DDT : ************verifying login test
+2020-12-08 00:59:45,172 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-08 00:59:51,723 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-08 00:59:57,119 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-08 01:00:02,880 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-08 01:00:02,880 : INFO : test_login_DDT : ***********login DDT test is passed************
+2020-12-08 01:01:13,439 : INFO : test_login_DDT : ******************Test_002_Login_DDT****************
+2020-12-08 01:01:13,440 : INFO : test_login_DDT : ************verifying login test
+2020-12-08 01:01:23,400 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-08 01:01:30,534 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-08 01:01:35,914 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-08 01:01:41,262 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-08 01:01:41,263 : INFO : test_login_DDT : ***********login DDT test is passed************
+2020-12-08 01:02:33,218 : INFO : test_login_DDT : ******************Test_002_Login_DDT****************
+2020-12-08 01:02:33,218 : INFO : test_login_DDT : ************verifying login test
+2020-12-08 01:02:41,495 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-08 01:02:48,122 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-08 01:02:53,451 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-08 01:02:59,300 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-08 01:02:59,300 : INFO : test_login_DDT : ***********login DDT test is passed************
+2020-12-08 15:10:40,399 : INFO : test_homepage_title : ******************Test_001_Login****************
+2020-12-08 15:10:40,444 : INFO : test_homepage_title : *************verifying home page title***********
+2020-12-08 15:10:40,451 : INFO : test_homepage_title : *************home page title test is passed
+2020-12-08 15:10:40,529 : INFO : test_login : ************verifying login test
+2020-12-08 15:10:46,717 : INFO : test_login : ***********login test is passed************
+2020-12-08 15:54:10,603 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 15:54:10,631 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 15:54:15,849 : INFO : test_add_customer : ************login successful**********
+2020-12-08 15:54:15,850 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 16:16:16,416 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 16:16:16,416 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 16:16:20,358 : INFO : test_add_customer : ************login successful**********
+2020-12-08 16:16:20,359 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 16:17:00,294 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 16:17:00,294 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 16:17:04,207 : INFO : test_add_customer : ************login successful**********
+2020-12-08 16:17:04,207 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 16:17:26,309 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 16:17:26,310 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 16:17:30,818 : INFO : test_add_customer : ************login successful**********
+2020-12-08 16:17:30,819 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 16:19:17,470 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 16:19:17,471 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 16:19:24,735 : INFO : test_add_customer : ************login successful**********
+2020-12-08 16:19:24,736 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 16:19:52,109 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 16:19:52,109 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 16:19:58,587 : INFO : test_add_customer : ************login successful**********
+2020-12-08 16:19:58,587 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 16:22:08,782 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 16:22:08,782 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 16:22:13,102 : INFO : test_add_customer : ************login successful**********
+2020-12-08 16:22:13,103 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 16:23:57,114 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 16:23:57,114 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 16:24:02,220 : INFO : test_add_customer : ************login successful**********
+2020-12-08 16:24:02,220 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 16:28:07,486 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 16:28:07,486 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 16:28:17,725 : INFO : test_add_customer : ************login successful**********
+2020-12-08 16:28:17,725 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 16:32:32,494 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 16:32:32,494 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 16:32:35,727 : INFO : test_add_customer : ************login successful**********
+2020-12-08 16:32:35,727 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 16:33:14,320 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 16:33:14,320 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 16:33:19,058 : INFO : test_add_customer : ************login successful**********
+2020-12-08 16:33:19,059 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 16:35:05,259 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 16:35:05,259 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 16:35:11,463 : INFO : test_add_customer : ************login successful**********
+2020-12-08 16:35:11,463 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 16:39:10,367 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 16:39:10,368 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 16:39:15,659 : INFO : test_add_customer : ************login successful**********
+2020-12-08 16:39:15,660 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 16:41:02,268 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 16:41:02,269 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 16:41:07,428 : INFO : test_add_customer : ************login successful**********
+2020-12-08 16:41:07,428 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 16:46:10,381 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 16:46:10,381 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 16:46:15,441 : INFO : test_add_customer : ************login successful**********
+2020-12-08 16:46:15,442 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 16:47:36,674 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 16:47:36,675 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 16:47:41,591 : INFO : test_add_customer : ************login successful**********
+2020-12-08 16:47:41,591 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 16:50:22,261 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 16:50:22,262 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 16:50:32,887 : INFO : test_add_customer : ************login successful**********
+2020-12-08 16:50:32,887 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 21:19:09,713 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 21:19:09,730 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 21:19:15,179 : INFO : test_add_customer : ************login successful**********
+2020-12-08 21:19:15,180 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 21:20:26,739 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 21:20:26,739 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 21:20:43,029 : INFO : test_add_customer : ************login successful**********
+2020-12-08 21:20:43,030 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 21:25:46,084 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 21:25:46,084 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 21:25:50,716 : INFO : test_add_customer : ************login successful**********
+2020-12-08 21:25:50,716 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 21:26:31,408 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 21:26:31,408 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 21:26:35,968 : INFO : test_add_customer : ************login successful**********
+2020-12-08 21:26:35,968 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 21:28:06,975 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 21:28:06,976 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 21:28:11,300 : INFO : test_add_customer : ************login successful**********
+2020-12-08 21:28:11,300 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 21:33:32,973 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 21:33:32,973 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 21:33:39,326 : INFO : test_add_customer : ************login successful**********
+2020-12-08 21:33:39,326 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 21:40:40,162 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 21:40:40,162 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 21:40:45,752 : INFO : test_add_customer : ************login successful**********
+2020-12-08 21:40:45,752 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 21:43:01,732 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 21:43:01,733 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 21:43:06,471 : INFO : test_add_customer : ************login successful**********
+2020-12-08 21:43:06,471 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 21:45:00,277 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 21:45:00,278 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 21:45:04,650 : INFO : test_add_customer : ************login successful**********
+2020-12-08 21:45:04,651 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 21:45:37,512 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 21:45:37,513 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 21:45:41,605 : INFO : test_add_customer : ************login successful**********
+2020-12-08 21:45:41,605 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 21:48:19,988 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 21:48:19,989 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 21:48:23,545 : INFO : test_add_customer : ************login successful**********
+2020-12-08 21:48:23,546 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 21:49:04,759 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 21:49:04,760 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 21:49:09,938 : INFO : test_add_customer : ************login successful**********
+2020-12-08 21:49:09,939 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 22:23:41,021 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 22:23:41,037 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 22:23:47,614 : INFO : test_add_customer : ************login successful**********
+2020-12-08 22:23:47,615 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 23:00:11,205 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 23:00:11,497 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 23:00:21,953 : INFO : test_add_customer : ************login successful**********
+2020-12-08 23:00:21,953 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 23:07:42,712 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 23:07:42,712 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 23:07:57,850 : INFO : test_add_customer : ************login successful**********
+2020-12-08 23:07:57,850 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 23:16:10,599 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 23:16:10,651 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 23:16:14,843 : INFO : test_add_customer : ************login successful**********
+2020-12-08 23:16:14,843 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 23:16:17,857 : INFO : test_add_customer : ************add customer form  ******
+2020-12-08 23:16:29,354 : INFO : test_add_customer : ************Customer has been created ******
+2020-12-08 23:16:29,355 : INFO : test_add_customer : ************Customer validation ******
+2020-12-08 23:24:34,112 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 23:24:34,112 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 23:24:38,912 : INFO : test_add_customer : ************login successful**********
+2020-12-08 23:24:38,912 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 23:26:04,327 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 23:26:04,327 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 23:26:08,239 : INFO : test_add_customer : ************login successful**********
+2020-12-08 23:26:08,240 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 23:26:10,826 : INFO : test_add_customer : ************add customer form  ******
+2020-12-08 23:26:21,586 : INFO : test_add_customer : ************Customer has been created ******
+2020-12-08 23:26:21,587 : INFO : test_add_customer : ************Customer validation ******
+2020-12-08 23:30:28,594 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 23:30:28,595 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 23:30:32,806 : INFO : test_add_customer : ************login successful**********
+2020-12-08 23:30:32,807 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 23:30:36,242 : INFO : test_add_customer : ************add customer form  ******
+2020-12-08 23:30:47,139 : INFO : test_add_customer : ************Customer has been created ******
+2020-12-08 23:30:47,139 : INFO : test_add_customer : ************Customer validation ******
+2020-12-08 23:34:20,678 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 23:34:20,678 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 23:34:24,558 : INFO : test_add_customer : ************login successful**********
+2020-12-08 23:34:24,558 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 23:34:27,838 : INFO : test_add_customer : ************add customer form  ******
+2020-12-08 23:34:38,739 : INFO : test_add_customer : ************Customer has been created ******
+2020-12-08 23:34:38,739 : INFO : test_add_customer : ************Customer validation ******
+2020-12-08 23:35:20,072 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 23:35:20,072 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 23:35:25,838 : INFO : test_add_customer : ************login successful**********
+2020-12-08 23:35:25,838 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 23:35:28,555 : INFO : test_add_customer : ************add customer form  ******
+2020-12-08 23:35:39,748 : INFO : test_add_customer : ************Customer has been created ******
+2020-12-08 23:35:39,748 : INFO : test_add_customer : ************Customer validation ******
+2020-12-08 23:35:40,017 : INFO : test_add_customer : ************Customer validation successful******
+2020-12-08 23:38:01,224 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-08 23:38:01,224 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-08 23:38:04,854 : INFO : test_add_customer : ************login successful**********
+2020-12-08 23:38:04,855 : INFO : test_add_customer : ************starting add customer ******
+2020-12-08 23:38:09,141 : INFO : test_add_customer : ************add customer form  ******
+2020-12-08 23:38:20,425 : INFO : test_add_customer : ************Customer has been created ******
+2020-12-08 23:38:20,426 : INFO : test_add_customer : ************Customer validation ******
+2020-12-08 23:38:20,801 : INFO : test_add_customer : ************Customer validation successful******
+2020-12-09 00:44:54,618 : INFO : test_search_by_email : ******************Test_003_Add Customer****************
+2020-12-09 00:44:54,619 : INFO : test_search_by_email : *************verifying home page title***********
+2020-12-09 00:44:59,058 : INFO : test_search_by_email : ************login successful**********
+2020-12-09 00:44:59,058 : INFO : test_search_by_email : ************starting add customer ******
+2020-12-09 00:45:00,706 : INFO : test_search_by_email : ************searching customer by email **********
+2020-12-09 00:47:57,804 : INFO : test_search_by_email : ******************Test_003_Add Customer****************
+2020-12-09 00:47:57,804 : INFO : test_search_by_email : *************verifying home page title***********
+2020-12-09 00:48:02,358 : INFO : test_search_by_email : ************login successful**********
+2020-12-09 00:48:02,359 : INFO : test_search_by_email : ************starting add customer ******
+2020-12-09 00:48:04,038 : INFO : test_search_by_email : ************searching customer by email **********
+2020-12-09 00:50:50,346 : INFO : test_search_by_email : ******************Test_003_Add Customer****************
+2020-12-09 00:50:50,346 : INFO : test_search_by_email : *************verifying home page title***********
+2020-12-09 00:50:54,460 : INFO : test_search_by_email : ************login successful**********
+2020-12-09 00:50:54,460 : INFO : test_search_by_email : ************starting customer menu******
+2020-12-09 00:50:56,154 : INFO : test_search_by_email : ************searching customer by email **********
+2020-12-09 00:51:33,120 : INFO : test_search_by_email : ******************Test_003_Add Customer****************
+2020-12-09 00:51:33,121 : INFO : test_search_by_email : *************verifying home page title***********
+2020-12-09 00:51:37,971 : INFO : test_search_by_email : ************login successful**********
+2020-12-09 00:51:37,971 : INFO : test_search_by_email : ************starting customer menu******
+2020-12-09 00:51:39,638 : INFO : test_search_by_email : ************searching customer by email **********
+2020-12-09 00:52:35,563 : INFO : test_search_by_email : ******************Test_003_Add Customer****************
+2020-12-09 00:52:35,564 : INFO : test_search_by_email : *************verifying home page title***********
+2020-12-09 00:52:39,259 : INFO : test_search_by_email : ************login successful**********
+2020-12-09 00:52:39,260 : INFO : test_search_by_email : ************starting customer menu******
+2020-12-09 00:52:42,222 : INFO : test_search_by_email : ************searching customer by email **********
+2020-12-09 00:53:46,548 : INFO : test_search_by_email : ******************Test_003_Add Customer****************
+2020-12-09 00:53:46,548 : INFO : test_search_by_email : *************verifying home page title***********
+2020-12-09 00:53:52,210 : INFO : test_search_by_email : ************login successful**********
+2020-12-09 00:53:52,211 : INFO : test_search_by_email : ************starting customer menu******
+2020-12-09 00:53:53,851 : INFO : test_search_by_email : ************searching customer by email **********
+2020-12-09 00:56:47,853 : INFO : test_search_by_email : ******************Test_003_Add Customer****************
+2020-12-09 00:56:47,853 : INFO : test_search_by_email : *************verifying home page title***********
+2020-12-09 00:56:52,868 : INFO : test_search_by_email : ************login successful**********
+2020-12-09 00:56:52,869 : INFO : test_search_by_email : ************starting customer menu******
+2020-12-09 00:56:54,625 : INFO : test_search_by_email : ************searching customer by email **********
+2020-12-09 00:57:06,044 : INFO : test_search_by_name : ******************Test_003_Add Customer****************
+2020-12-09 00:57:06,044 : INFO : test_search_by_name : *************verifying home page title***********
+2020-12-09 01:00:32,298 : INFO : test_search_by_email : ******************Test_003_Add Customer****************
+2020-12-09 01:00:32,298 : INFO : test_search_by_email : *************verifying home page title***********
+2020-12-09 01:00:36,711 : INFO : test_search_by_email : ************login successful**********
+2020-12-09 01:00:36,712 : INFO : test_search_by_email : ************starting customer menu******
+2020-12-09 01:00:39,325 : INFO : test_search_by_email : ************searching customer by email **********
+2020-12-09 01:01:28,733 : INFO : test_search_by_email : ******************Test_003_Add Customer****************
+2020-12-09 01:01:28,733 : INFO : test_search_by_email : *************verifying home page title***********
+2020-12-09 01:01:33,128 : INFO : test_search_by_email : ************login successful**********
+2020-12-09 01:01:33,129 : INFO : test_search_by_email : ************starting customer menu******
+2020-12-09 01:01:36,379 : INFO : test_search_by_email : ************searching customer by email **********
+2020-12-09 01:01:47,862 : INFO : test_search_by_name : ************searching customer by name **********
+2020-12-09 01:02:37,258 : INFO : test_search_by_email : ******************Test_003_Add Customer****************
+2020-12-09 01:02:37,258 : INFO : test_search_by_email : *************verifying home page title***********
+2020-12-09 01:02:42,063 : INFO : test_search_by_email : ************login successful**********
+2020-12-09 01:02:42,064 : INFO : test_search_by_email : ************starting customer menu******
+2020-12-09 01:02:43,846 : INFO : test_search_by_email : ************searching customer by email **********
+2020-12-09 01:02:50,237 : INFO : test_search_by_name : ************searching customer by name **********
+2020-12-09 01:08:41,240 : INFO : test_search_by_email : ******************Test_003_Add Customer****************
+2020-12-09 01:08:41,241 : INFO : test_search_by_email : *************verifying home page title***********
+2020-12-09 01:08:45,482 : INFO : test_search_by_email : ************login successful**********
+2020-12-09 01:08:45,482 : INFO : test_search_by_email : ************starting customer menu******
+2020-12-09 01:08:47,959 : INFO : test_search_by_email : ************searching customer by email **********
+2020-12-09 01:08:54,939 : INFO : test_search_by_name : ************searching customer by name **********
+2020-12-09 01:24:42,386 : INFO : test_search_by_email : ******************Test_003_Add Customer****************
+2020-12-09 01:24:42,386 : INFO : test_search_by_email : *************verifying home page title***********
+2020-12-09 01:24:48,103 : INFO : test_search_by_email : ************login successful**********
+2020-12-09 01:24:48,103 : INFO : test_search_by_email : ************starting customer menu******
+2020-12-09 01:24:52,857 : INFO : test_search_by_email : ************searching customer by email **********
+2020-12-09 01:24:59,337 : INFO : test_search_by_name : ************searching customer by name **********
+2020-12-09 01:25:14,677 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-09 01:25:14,678 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-09 01:25:19,395 : INFO : test_add_customer : ************login successful**********
+2020-12-09 01:25:19,395 : INFO : test_add_customer : ************starting add customer ******
+2020-12-09 01:25:24,849 : INFO : test_add_customer : ************add customer form  ******
+2020-12-09 01:25:36,509 : INFO : test_add_customer : ************Customer has been created ******
+2020-12-09 01:25:36,510 : INFO : test_add_customer : ************Customer validation ******
+2020-12-09 01:25:36,929 : INFO : test_add_customer : ************Customer validation successful******
+2020-12-09 01:25:43,852 : INFO : test_homepage_title : ******************Test_001_Login****************
+2020-12-09 01:25:43,852 : INFO : test_homepage_title : *************verifying home page title***********
+2020-12-09 01:25:43,858 : INFO : test_homepage_title : *************home page title test is passed
+2020-12-09 01:25:43,871 : INFO : test_login : ************verifying login test
+2020-12-09 01:25:48,076 : INFO : test_login : ***********login test is passed************
+2020-12-09 01:25:58,764 : INFO : test_login_DDT : ******************Test_002_Login_DDT****************
+2020-12-09 01:25:58,764 : INFO : test_login_DDT : ************verifying login test
+2020-12-09 01:29:23,494 : INFO : test_search_by_email : ******************Test_003_Add Customer****************
+2020-12-09 01:29:23,495 : INFO : test_search_by_email : *************verifying home page title***********
+2020-12-09 01:29:27,727 : INFO : test_search_by_email : ************login successful**********
+2020-12-09 01:29:27,727 : INFO : test_search_by_email : ************starting customer menu******
+2020-12-09 01:29:29,466 : INFO : test_search_by_email : ************searching customer by email **********
+2020-12-09 01:29:35,855 : INFO : test_search_by_name : ************searching customer by name **********
+2020-12-09 01:29:50,882 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-09 01:29:50,883 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-09 01:29:56,204 : INFO : test_add_customer : ************login successful**********
+2020-12-09 01:29:56,204 : INFO : test_add_customer : ************starting add customer ******
+2020-12-09 01:30:00,800 : INFO : test_add_customer : ************add customer form  ******
+2020-12-09 01:30:13,700 : INFO : test_add_customer : ************Customer has been created ******
+2020-12-09 01:30:13,701 : INFO : test_add_customer : ************Customer validation ******
+2020-12-09 01:30:13,970 : INFO : test_add_customer : ************Customer validation successful******
+2020-12-09 01:30:20,944 : INFO : test_homepage_title : ******************Test_001_Login****************
+2020-12-09 01:30:20,945 : INFO : test_homepage_title : *************verifying home page title***********
+2020-12-09 01:30:20,957 : INFO : test_homepage_title : *************home page title test is passed
+2020-12-09 01:30:20,970 : INFO : test_login : ************verifying login test
+2020-12-09 01:30:24,655 : INFO : test_login : ***********login test is passed************
+2020-12-09 01:30:33,224 : INFO : test_login_DDT : ******************Test_002_Login_DDT****************
+2020-12-09 01:30:33,224 : INFO : test_login_DDT : ************verifying login test
+2020-12-09 01:30:43,150 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-09 01:30:49,779 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-09 01:30:55,098 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-09 01:31:00,800 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-09 01:31:00,800 : INFO : test_login_DDT : ***********login DDT test is passed************
+2020-12-09 09:26:06,505 : INFO : test_search_by_email : ******************Test_003_Add Customer****************
+2020-12-09 09:26:06,506 : INFO : test_search_by_email : *************verifying home page title***********
+2020-12-09 09:26:10,789 : INFO : test_search_by_email : ************login successful**********
+2020-12-09 09:26:10,789 : INFO : test_search_by_email : ************starting customer menu******
+2020-12-09 09:26:12,594 : INFO : test_search_by_email : ************searching customer by email **********
+2020-12-09 09:26:18,998 : INFO : test_search_by_name : ************searching customer by name **********
+2020-12-09 09:26:33,853 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-09 09:26:33,853 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-09 09:26:37,963 : INFO : test_add_customer : ************login successful**********
+2020-12-09 09:26:37,963 : INFO : test_add_customer : ************starting add customer ******
+2020-12-09 09:26:41,451 : INFO : test_add_customer : ************add customer form  ******
+2020-12-09 09:26:53,432 : INFO : test_add_customer : ************Customer has been created ******
+2020-12-09 09:26:53,432 : INFO : test_add_customer : ************Customer validation ******
+2020-12-09 09:26:54,223 : INFO : test_add_customer : ************Customer validation successful******
+2020-12-09 09:27:05,026 : INFO : test_homepage_title : ******************Test_001_Login****************
+2020-12-09 09:27:05,026 : INFO : test_homepage_title : *************verifying home page title***********
+2020-12-09 09:27:05,038 : INFO : test_homepage_title : *************home page title test is passed
+2020-12-09 09:27:05,058 : INFO : test_login : ************verifying login test
+2020-12-09 09:27:14,098 : INFO : test_login : ***********login test is passed************
+2020-12-09 09:27:25,692 : INFO : test_login_DDT : ******************Test_002_Login_DDT****************
+2020-12-09 09:27:25,692 : INFO : test_login_DDT : ************verifying login test
+2020-12-09 09:27:36,916 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-09 09:27:43,775 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-09 09:27:49,156 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-09 09:27:54,923 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-09 09:27:54,923 : INFO : test_login_DDT : ***********login DDT test is passed************
+2020-12-09 09:28:15,326 : INFO : test_search_by_email : ******************Test_003_Add Customer****************
+2020-12-09 09:28:15,327 : INFO : test_search_by_email : *************verifying home page title***********
+2020-12-09 09:28:20,323 : INFO : test_search_by_email : ************login successful**********
+2020-12-09 09:28:20,324 : INFO : test_search_by_email : ************starting customer menu******
+2020-12-09 09:28:22,083 : INFO : test_search_by_email : ************searching customer by email **********
+2020-12-09 09:28:28,531 : INFO : test_search_by_name : ************searching customer by name **********
+2020-12-09 09:28:43,655 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-09 09:28:43,655 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-09 09:28:50,839 : INFO : test_add_customer : ************login successful**********
+2020-12-09 09:28:50,839 : INFO : test_add_customer : ************starting add customer ******
+2020-12-09 09:28:54,018 : INFO : test_add_customer : ************add customer form  ******
+2020-12-09 09:29:05,234 : INFO : test_add_customer : ************Customer has been created ******
+2020-12-09 09:29:05,235 : INFO : test_add_customer : ************Customer validation ******
+2020-12-09 09:29:05,616 : INFO : test_add_customer : ************Customer validation successful******
+2020-12-09 09:29:14,461 : INFO : test_homepage_title : ******************Test_001_Login****************
+2020-12-09 09:29:14,461 : INFO : test_homepage_title : *************verifying home page title***********
+2020-12-09 09:29:14,473 : INFO : test_homepage_title : *************home page title test is passed
+2020-12-09 09:29:14,509 : INFO : test_login : ************verifying login test
+2020-12-09 09:29:20,403 : INFO : test_login : ***********login test is passed************
+2020-12-09 09:29:29,119 : INFO : test_login_DDT : ******************Test_002_Login_DDT****************
+2020-12-09 09:29:29,119 : INFO : test_login_DDT : ************verifying login test
+2020-12-09 09:29:39,427 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-09 09:29:46,051 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-09 09:29:51,481 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-09 09:29:57,296 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-09 09:29:57,296 : INFO : test_login_DDT : ***********login DDT test is passed************
+2020-12-09 09:30:56,272 : INFO : test_search_by_email : ******************Test_003_Add Customer****************
+2020-12-09 09:30:56,273 : INFO : test_search_by_email : *************verifying home page title***********
+2020-12-09 09:31:01,568 : INFO : test_search_by_email : ************login successful**********
+2020-12-09 09:31:01,569 : INFO : test_search_by_email : ************starting customer menu******
+2020-12-09 09:31:05,429 : INFO : test_search_by_email : ************searching customer by email **********
+2020-12-09 09:31:12,046 : INFO : test_search_by_name : ************searching customer by name **********
+2020-12-09 09:31:26,136 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-09 09:31:26,136 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-09 09:31:29,668 : INFO : test_add_customer : ************login successful**********
+2020-12-09 09:31:29,669 : INFO : test_add_customer : ************starting add customer ******
+2020-12-09 09:31:32,957 : INFO : test_add_customer : ************add customer form  ******
+2020-12-09 09:31:44,365 : INFO : test_add_customer : ************Customer has been created ******
+2020-12-09 09:31:44,366 : INFO : test_add_customer : ************Customer validation ******
+2020-12-09 09:31:44,780 : INFO : test_add_customer : ************Customer validation successful******
+2020-12-09 09:31:53,808 : INFO : test_homepage_title : ******************Test_001_Login****************
+2020-12-09 09:31:53,808 : INFO : test_homepage_title : *************verifying home page title***********
+2020-12-09 09:31:53,814 : INFO : test_homepage_title : *************home page title test is passed
+2020-12-09 09:31:53,830 : INFO : test_login : ************verifying login test
+2020-12-09 09:31:58,555 : INFO : test_login : ***********login test is passed************
+2020-12-09 09:32:05,925 : INFO : test_login_DDT : ******************Test_002_Login_DDT****************
+2020-12-09 09:32:05,925 : INFO : test_login_DDT : ************verifying login test
+2020-12-09 09:32:15,928 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-09 09:32:22,622 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-09 09:32:28,050 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-09 09:32:33,841 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-09 09:32:33,841 : INFO : test_login_DDT : ***********login DDT test is passed************
+2020-12-09 09:34:30,824 : INFO : test_search_by_email : ******************Test_003_Add Customer****************
+2020-12-09 09:34:30,825 : INFO : test_search_by_email : *************verifying home page title***********
+2020-12-09 09:34:36,506 : INFO : test_search_by_email : ************login successful**********
+2020-12-09 09:34:36,506 : INFO : test_search_by_email : ************starting customer menu******
+2020-12-09 09:34:40,678 : INFO : test_search_by_email : ************searching customer by email **********
+2020-12-09 09:34:47,628 : INFO : test_search_by_name : ************searching customer by name **********
+2020-12-09 09:35:05,922 : INFO : test_add_customer : ******************Test_003_Add Customer****************
+2020-12-09 09:35:05,966 : INFO : test_add_customer : *************verifying home page title***********
+2020-12-09 09:35:12,588 : INFO : test_add_customer : ************login successful**********
+2020-12-09 09:35:12,589 : INFO : test_add_customer : ************starting add customer ******
+2020-12-09 09:35:16,278 : INFO : test_add_customer : ************add customer form  ******
+2020-12-09 09:35:27,738 : INFO : test_add_customer : ************Customer has been created ******
+2020-12-09 09:35:27,738 : INFO : test_add_customer : ************Customer validation ******
+2020-12-09 09:35:28,121 : INFO : test_add_customer : ************Customer validation successful******
+2020-12-09 09:35:36,723 : INFO : test_homepage_title : ******************Test_001_Login****************
+2020-12-09 09:35:36,723 : INFO : test_homepage_title : *************verifying home page title***********
+2020-12-09 09:35:36,729 : INFO : test_homepage_title : *************home page title test is passed
+2020-12-09 09:35:36,745 : INFO : test_login : ************verifying login test
+2020-12-09 09:35:41,435 : INFO : test_login : ***********login test is passed************
+2020-12-09 09:35:51,298 : INFO : test_login_DDT : ******************Test_002_Login_DDT****************
+2020-12-09 09:35:51,298 : INFO : test_login_DDT : ************verifying login test
+2020-12-09 09:36:01,192 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-09 09:36:08,027 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-09 09:36:13,371 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-09 09:36:19,765 : INFO : test_login_DDT : ***********login test is passed************
+2020-12-09 09:36:19,765 : INFO : test_login_DDT : ***********login DDT test is passed************
